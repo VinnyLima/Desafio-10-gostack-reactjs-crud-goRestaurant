@@ -43,10 +43,10 @@ export const Container = styled.div<IContainerProps>`
     flex: 1;
     background: transparent;
     border: 0;
-    color: #b7b7cc;
+    color: #8c8c8c;
 
     &::placeholder {
-      color: #b7b7cc;
+      color: #8c8c8c;
     }
   }
 
